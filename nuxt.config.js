@@ -3,7 +3,7 @@ export default {
   target: 'static',
 
   router: {
-    base: '/campaign-images'
+    base: '/campaign-images/'
   },
 
   // Global page headers: https://go.nuxtjs.dev/config-head
